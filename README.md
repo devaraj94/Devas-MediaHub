@@ -1,5 +1,13 @@
-# <img width="1254" height="1254" alt="deva&#39;s-mediahub" src="https://github.com/user-attachments/assets/9222ccd9-c6e4-4d5f-a1b5-3b8772db7eba" />
- Deva's MediaHub
+# 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9222ccd9-c6e4-4d5f-a1b5-3b8772db7eba" width="150">
+</p>
+<h1 align="center">Deva's MediaHub</h1>
+
+<p align="center">
+  Your personal media experience.
+</p>
+ 
 
 **Deva's MediaHub** is an Android application designed to provide users with a simple, intuitive, and user-friendly media experience.
 
