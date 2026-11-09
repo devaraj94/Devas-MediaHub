@@ -1,4 +1,4 @@
-#<p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/9222ccd9-c6e4-4d5f-a1b5-3b8772db7eba" width="150" alt="Deva's MediaHub logo">
 </p>
 
