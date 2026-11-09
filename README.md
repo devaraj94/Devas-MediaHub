@@ -1,4 +1,5 @@
-# 🎬 Deva's MediaHub
+# <img width="1254" height="1254" alt="deva&#39;s-mediahub" src="https://github.com/user-attachments/assets/9222ccd9-c6e4-4d5f-a1b5-3b8772db7eba" />
+ Deva's MediaHub
 
 **Deva's MediaHub** is an Android application designed to provide users with a simple, intuitive, and user-friendly media experience.
 
@@ -24,14 +25,14 @@ Deva's MediaHub is developed using Android Studio, with a focus on clean design,
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/devaraj94/Deva-s-MediaHub.git
 ```
 
 Open the project in Android Studio, sync Gradle, and run the application.
 
 ## 👨‍💻 Developer
 
-**Deva**
+**Devaraj**
 
 ---
 
