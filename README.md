@@ -33,7 +33,7 @@ Deva's MediaHub is developed using Android Studio, with a focus on clean design,
 Clone the repository:
 
 ```bash
-git clone https://github.com/devaraj94/Deva-s-MediaHub.git
+git clone https://github.com/devaraj94/Devas-MediaHub.git
 ```
 
 Open the project in Android Studio, sync Gradle, and run the application.
